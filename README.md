@@ -10,7 +10,7 @@
 | 2. | Tugas Praktium 4 | [penjelasan](#TugasPraktikum-4) | 
 
 ## TugasLatihan 4
-![gambar output](gambar/latihan4.PNG)
+![gambar output](Gambar/latihan4.png)
 
 ## Hasil Source Code
 ```python
@@ -40,10 +40,10 @@ print ("mengabungkan list A dan B : " ,dataa + datab)
 print("══════════════════════════════════════")
 ```
 ## Hasil Output 
-![gambar output](gambar/Hasillatihan4.png)
+![gambar output](Gambar/foto%2.png)
 
 ## TugasPraktikum 4
-![gambar output](gambar/soalpraktikum4.PNG)
+![gambar output](gambar/soalpraktikum4.png)
 
 ## Hasil Source Code
 ```python
@@ -121,4 +121,5 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](gambar/hasilpraktikum4.png)
+![gambar output](Gambar/foto%3.png)
+## hasil flowchart
