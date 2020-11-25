@@ -40,7 +40,7 @@ print ("mengabungkan list A dan B : " ,dataa + datab)
 print("══════════════════════════════════════")
 ```
 ## Hasil Output 
-![gambar output](Gambar/foto%2.png)
+![gambar output](Gambar/foto%202.png)
 
 ## TugasPraktikum 4
 ![gambar output](gambar/soalpraktikum4.png)
@@ -121,5 +121,6 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](Gambar/foto%3.png)
+![gambar output](Gambar/foto%203.png)
 ## hasil flowchart
+![gambar output](Gambar/foto%201.png)
